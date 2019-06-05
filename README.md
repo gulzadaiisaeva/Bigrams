@@ -1,0 +1,2 @@
+# Bigrams
+You will write a class hierarchy for bigrams (2-Gram). A bigram is a specialization of N-Gram which “is a contiguous sequence of N items from a given data sequence”. For the bigram we take N=2. For example if we have a sequence of integers {1 4 6 3 7 1 4 7 2} then the number of {1 4} bigrams is 2, the number of {4 6} bigrams is 1, and the number of {3 4} bigrams is 0. Similarly, if the sequence is {qwe asd fgh sdf sdf} then the number of {qwe asd} bigrams is 0
